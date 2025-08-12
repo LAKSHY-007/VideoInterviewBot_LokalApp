@@ -68,7 +68,6 @@ pip install -r requirements.txt
 ├── app.py                 # Main application logic
 ├── utils.py               # Helper functions for AI completions
 ├── config.py              # Configuration parameters
-├── requirements.txt       # Dependencies
 ├── README.md              # Project documentation
 └── interview_data/        # Directory for saved interviews
 
