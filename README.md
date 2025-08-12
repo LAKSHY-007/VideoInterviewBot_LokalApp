@@ -76,7 +76,6 @@ pip install -r requirements.txt
 
 ## ScreenShots
 <img width="1920" height="875" alt="MVP1" src="https://github.com/user-attachments/assets/0b6a33df-2d03-4ef2-a220-819ea6a07595" />
-<img width="1920" height="1080" alt="MVP2" src="https://github.com/user-attachments/assets/22709d9d-8ff1-445d-bfcd-3eb8ef699225" />
 <img width="1920" height="869" alt="MVP3" src="https://github.com/user-attachments/assets/f12421f9-398d-4c06-96aa-c94fd6d23422" />
 <img width="1920" height="890" alt="MVP4" src="https://github.com/user-attachments/assets/b6a7e2d7-4bb2-4116-8f3e-e3e675dbec0b" />
 <img width="1920" height="894" alt="MVP5" src="https://github.com/user-attachments/assets/73000a58-beb1-417b-9571-f28572836fbd" />
