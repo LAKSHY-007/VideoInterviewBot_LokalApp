@@ -64,10 +64,10 @@ pip install -r requirements.txt
 
 
 ## Project Structure
-
-interview-bot/
-├── app.py # Main application logic
-├── utils.py # Helper functions for AI completions
-├── config.py # Configuration parameters
-├── requirements.txt # Dependencies
-└── interview_data/ # Directory for saved interviews
+-interview-bot/
+├── app.py                 # Main application logic
+├── utils.py               # Helper functions for AI completions
+├── config.py              # Configuration parameters
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
+└── interview_data/        # Directory for saved interviews
