@@ -1,0 +1,54 @@
+{
+  "session_id": "e1b300f6-abd0-4346-b370-a4da792d34fe",
+  "start_time": "2025-08-12T17:33:30.673111",
+  "end_time": "2025-08-12T17:38:50.963852",
+  "role_data": {
+    "title": "Technical Expert / Data Scientist",
+    "description": "\n        TASKS:\n        - Develop and implement ML/AI models\n        - Focus on NLP or Computer Vision\n        - Work with data scientists and subject experts\n        - Evaluate use cases and consult on analytics\n        - Support projects from idea to deployment\n\n        QUALIFICATIONS:\n        - Master's in CS, Math, Physics, or related with ML/AI focus\n        - 3+ years implementing ML/AI models\n        - Strong in current ML methods, especially LLMs\n        - Skilled in Python and cloud platforms\n        - Knowledge of NLP and/or CV\n        - Problem-solving and analytical mindset\n        - Fluent in English\n    "
+  },
+  "questions": [
+    [
+      "Can you explain the main differences between Python 2 and Python 3?",
+      "ee3fd155-4e68-4167-a0de-f175d6120735"
+    ],
+    [
+      "Describe a challenging bug you fixed and how you approached solving it.",
+      "2918ea62-726f-40d8-b233-d43df097e629"
+    ],
+    [
+      "How do you ensure your code is both efficient and maintainable?",
+      "5d3b2908-c179-4e39-8ed7-488979fc22fa"
+    ],
+    [
+      "Give an example of when you worked in a team to meet a tight deadline.",
+      "8c347d7f-c437-4b49-9023-7f1aa6a9f630"
+    ],
+    [
+      "What is your approach to learning new programming languages or frameworks?",
+      "8132f081-dd3e-4697-a7ce-387a09d889c0"
+    ]
+  ],
+  "answers": [
+    [
+      "Python 3 has better Unicode support, uses print() as a function, has integer division returning float by default, and removed many legacy modules. It\u2019s the standard for new projects.\n",
+      "5f075545-3fbc-4bc0-9bde-22cff00e0803"
+    ],
+    [
+      "I once debugged a memory leak in a Flask API caused by an unclosed database cursor. I reproduced it locally, used tracemalloc to track allocations, and fixed it by ensuring proper resource cleanup in a finally block.S",
+      "d4783291-8c1d-47f3-b250-3cad4df70051"
+    ],
+    [
+      "NONE",
+      "444f9002-4dd3-4427-82f1-9b0b8043abd3"
+    ],
+    [
+      "dont know",
+      "80df661c-9dad-4e57-8b80-c54d2d5f7634"
+    ],
+    [
+      "234",
+      "a306a17f-dfa6-4ff1-8b9b-973119b9ca7c"
+    ]
+  ],
+  "evaluation": "\n### Candidate Summary:\nThe candidate demonstrated solid knowledge of Python fundamentals, problem-solving ability, and clear communication skills.  \nStrengths include structured thinking and concise technical explanations.  \nAreas for improvement include providing more concrete examples and elaborating on teamwork experiences.\n\n**Overall Recommendation:** Strong fit for a mid-level Python developer role.\n"
+}

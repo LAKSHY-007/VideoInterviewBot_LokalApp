@@ -1,0 +1,22 @@
+{
+  "session_id": "ceb8236d-e334-4224-a514-3d3bb2fb9a58",
+  "start_time": "2025-08-12T17:27:56.448254",
+  "end_time": "2025-08-12T17:28:24.558944",
+  "role_data": {
+    "title": "Technical Expert / Data Scientist",
+    "description": "\n        TASKS:\n        - Develop and implement ML/AI models\n        - Focus on NLP or Computer Vision\n        - Work with data scientists and subject experts\n        - Evaluate use cases and consult on analytics\n        - Support projects from idea to deployment\n\n        QUALIFICATIONS:\n        - Master's in CS, Math, Physics, or related with ML/AI focus\n        - 3+ years implementing ML/AI models\n        - Strong in current ML methods, especially LLMs\n        - Skilled in Python and cloud platforms\n        - Knowledge of NLP and/or CV\n        - Problem-solving and analytical mindset\n        - Fluent in English\n    "
+  },
+  "questions": [
+    [
+      "Request limit reached. Wait before retrying. [Error Type: ResourceExhausted]",
+      "56e781e7-2587-4b55-9707-b2ea0b5780ae"
+    ]
+  ],
+  "answers": [
+    [
+      "jk",
+      "a4f4d333-d40f-4f0f-8448-af9b8e77c5fd"
+    ]
+  ],
+  "evaluation": "Request limit reached. Wait before retrying. [Error Type: ResourceExhausted]"
+}
