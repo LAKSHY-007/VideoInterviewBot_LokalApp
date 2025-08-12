@@ -43,6 +43,8 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 ```bash
 pip install -r requirements.txt
+If you face any issues 
+Try installing dependencies one by one , Specially, streamlit, streamlit-chat and gemini
 ```
 
 ## Interface Walkthrough
