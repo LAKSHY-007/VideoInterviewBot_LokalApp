@@ -76,10 +76,10 @@ pip install -r requirements.txt
 
 ## ScreenShots
 <img width="1920" height="875" alt="MVP1" src="https://github.com/user-attachments/assets/0b6a33df-2d03-4ef2-a220-819ea6a07595" />
-<img width="1920" height="869" alt="MVP3" src="https://github.com/user-attachments/assets/f12421f9-398d-4c06-96aa-c94fd6d23422" />
-<img width="1920" height="890" alt="MVP4" src="https://github.com/user-attachments/assets/b6a7e2d7-4bb2-4116-8f3e-e3e675dbec0b" />
-<img width="1920" height="894" alt="MVP5" src="https://github.com/user-attachments/assets/73000a58-beb1-417b-9571-f28572836fbd" />
-<img width="1920" height="779" alt="MVP6" src="https://github.com/user-attachments/assets/93f4cea8-6ed0-4460-a15a-e15dd1486d0a" />
+<img width="1920" height="787" alt="MVP3" src="https://github.com/user-attachments/assets/a80d24bc-4ffd-46a4-b3d3-d3bec21111e2" />
+<img width="1920" height="778" alt="MVP4" src="https://github.com/user-attachments/assets/eeee0563-cda4-40e1-bd39-47d6d5b14b84" />
+<img width="1920" height="894" alt="MVP5" src="https://github.com/user-attachments/assets/cde8a8f5-ef54-47aa-8401-ad8cb4058c3e" />
+<img width="1920" height="662" alt="MVP6" src="https://github.com/user-attachments/assets/fcb958c0-452a-45b5-89a0-05062d8c1691" />
 <img width="1920" height="720" alt="MVP7" src="https://github.com/user-attachments/assets/e1f45d8b-cce5-44ba-9818-0b0cf18114df" />
 <img width="1920" height="931" alt="MVP8 1" src="https://github.com/user-attachments/assets/c175ea8f-a764-40f5-9697-6a39f0669e08" />
 
